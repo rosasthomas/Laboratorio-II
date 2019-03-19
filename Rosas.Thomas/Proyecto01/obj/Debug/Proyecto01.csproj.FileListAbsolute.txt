@@ -1,0 +1,14 @@
+D:\rosas\Rosas.Thomas\Proyecto01\bin\Debug\Proyecto01.exe.config
+D:\rosas\Rosas.Thomas\Proyecto01\bin\Debug\Proyecto01.exe
+D:\rosas\Rosas.Thomas\Proyecto01\bin\Debug\Proyecto01.pdb
+D:\rosas\Rosas.Thomas\Proyecto01\obj\Debug\Proyecto01.csprojAssemblyReference.cache
+D:\rosas\Rosas.Thomas\Proyecto01\obj\Debug\Proyecto01.csproj.CoreCompileInputs.cache
+D:\rosas\Rosas.Thomas\Proyecto01\obj\Debug\Proyecto01.exe
+D:\rosas\Rosas.Thomas\Proyecto01\obj\Debug\Proyecto01.pdb
+D:\Laboratorio-II\Rosas.Thomas\Proyecto01\bin\Debug\Proyecto01.exe.config
+D:\Laboratorio-II\Rosas.Thomas\Proyecto01\bin\Debug\Proyecto01.exe
+D:\Laboratorio-II\Rosas.Thomas\Proyecto01\bin\Debug\Proyecto01.pdb
+D:\Laboratorio-II\Rosas.Thomas\Proyecto01\obj\Debug\Proyecto01.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Proyecto01\obj\Debug\Proyecto01.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Proyecto01\obj\Debug\Proyecto01.exe
+D:\Laboratorio-II\Rosas.Thomas\Proyecto01\obj\Debug\Proyecto01.pdb
