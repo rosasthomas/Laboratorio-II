@@ -1,0 +1,11 @@
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\bin\Debug\netcoreapp2.0\Clase_02.deps.json
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\bin\Debug\netcoreapp2.0\Clase_02.runtimeconfig.json
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\bin\Debug\netcoreapp2.0\Clase_02.runtimeconfig.dev.json
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\bin\Debug\netcoreapp2.0\Clase_02.dll
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\bin\Debug\netcoreapp2.0\Clase_02.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\obj\Debug\netcoreapp2.0\Clase_02.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\obj\Debug\netcoreapp2.0\Clase_02.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\obj\Debug\netcoreapp2.0\Clase_02.AssemblyInfoInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\obj\Debug\netcoreapp2.0\Clase_02.AssemblyInfo.cs
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\obj\Debug\netcoreapp2.0\Clase_02.dll
+D:\Laboratorio-II\Rosas.Thomas\Clase_02\obj\Debug\netcoreapp2.0\Clase_02.pdb
