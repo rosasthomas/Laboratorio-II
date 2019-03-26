@@ -48,11 +48,21 @@ namespace Boligrafo
             SetTinta(auxTinta);
         }
 
-        public bool Pintar(int gasto, out string dibujo)
+        public bool Pintar(short gasto, out string dibujo)
         {
+            bool pintadoMaestro;
+            SetTinta(gasto);
+            
+            if(this.tinta > 0)
+            {
+                pintadoMaestro = true;
+            }
+            else
+            {
+                pintadoMaestro = false;
+            }
 
-
-            return true;
+            return pintadoMaestro;
         }
 
     }
