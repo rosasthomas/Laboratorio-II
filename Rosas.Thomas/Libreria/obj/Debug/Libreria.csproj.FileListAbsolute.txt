@@ -1,0 +1,6 @@
+D:\Laboratorio-II\Rosas.Thomas\Libreria\bin\Debug\Libreria.dll
+D:\Laboratorio-II\Rosas.Thomas\Libreria\bin\Debug\Libreria.pdb
+D:\Laboratorio-II\Rosas.Thomas\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Libreria\obj\Debug\Libreria.dll
+D:\Laboratorio-II\Rosas.Thomas\Libreria\obj\Debug\Libreria.pdb
