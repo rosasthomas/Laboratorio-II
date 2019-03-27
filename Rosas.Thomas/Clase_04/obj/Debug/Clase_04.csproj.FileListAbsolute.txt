@@ -1,0 +1,10 @@
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\bin\Debug\Clase_04.exe.config
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\bin\Debug\Clase_04.exe
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\bin\Debug\Clase_04.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\bin\Debug\Clase_04.entidades.dll
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\bin\Debug\Clase_04.entidades.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\obj\Debug\Clase_04.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\obj\Debug\Clase_04.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\obj\Debug\Clase_04.csproj.CopyComplete
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\obj\Debug\Clase_04.exe
+D:\Laboratorio-II\Rosas.Thomas\Clase_04\obj\Debug\Clase_04.pdb

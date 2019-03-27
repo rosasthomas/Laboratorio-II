@@ -1,0 +1,6 @@
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.entidades\bin\Debug\Clase_04.entidades.dll
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.entidades\bin\Debug\Clase_04.entidades.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.entidades\obj\Debug\Clase_04.entidades.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.entidades\obj\Debug\Clase_04.entidades.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.entidades\obj\Debug\Clase_04.entidades.dll
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.entidades\obj\Debug\Clase_04.entidades.pdb

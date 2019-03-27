@@ -52,7 +52,7 @@ namespace Boligrafo
         {
             bool pintadoMaestro;
             SetTinta(gasto);
-            
+            dibujo = "";
             if(this.tinta > 0)
             {
                 pintadoMaestro = true;

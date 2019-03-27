@@ -1,0 +1,13 @@
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\bin\Debug\Clase_04.windowsForms.exe.config
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\bin\Debug\Clase_04.windowsForms.exe
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\bin\Debug\Clase_04.windowsForms.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\bin\Debug\Clase_04.entidades.dll
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\bin\Debug\Clase_04.entidades.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\obj\Debug\Clase_04.windowsForms.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\obj\Debug\Clase_04.windowsForms.FrmCosa.resources
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\obj\Debug\Clase_04.windowsForms.Properties.Resources.resources
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\obj\Debug\Clase_04.windowsForms.csproj.GenerateResource.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\obj\Debug\Clase_04.windowsForms.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\obj\Debug\Clase_04.windowsForms.csproj.CopyComplete
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\obj\Debug\Clase_04.windowsForms.exe
+D:\Laboratorio-II\Rosas.Thomas\Clase_04.windowsForms\obj\Debug\Clase_04.windowsForms.pdb

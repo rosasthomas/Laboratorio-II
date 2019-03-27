@@ -1,0 +1,2 @@
+D:\Laboratorio-II\Rosas.Thomas\Ejercicio_17\obj\Debug\Ejercicio_17.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Ejercicio_17\obj\Debug\Ejercicio_17.csproj.CoreCompileInputs.cache
