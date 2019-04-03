@@ -4,3 +4,6 @@ D:\Laboratorio-II\Rosas.Thomas\Libreria\obj\Debug\Libreria.csprojAssemblyReferen
 D:\Laboratorio-II\Rosas.Thomas\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
 D:\Laboratorio-II\Rosas.Thomas\Libreria\obj\Debug\Libreria.dll
 D:\Laboratorio-II\Rosas.Thomas\Libreria\obj\Debug\Libreria.pdb
+D:\Laboratorio-II\Rosas.Thomas\Libreria\bin\Debug\clase_05.entidades.dll
+D:\Laboratorio-II\Rosas.Thomas\Libreria\bin\Debug\clase_05.entidades.pdb
+D:\Laboratorio-II\Rosas.Thomas\Libreria\obj\Debug\Libreria.csproj.CopyComplete

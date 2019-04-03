@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3EE7C0B5-5311-404F-941B-AB0E3C74D85B}</ProjectGuid>
+    <ProjectGuid>{B5609829-F230-4B6A-9CD2-2BF5EA831302}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Libreria</RootNamespace>
-    <AssemblyName>Libreria</AssemblyName>
+    <RootNamespace>clase_05.entidades</RootNamespace>
+    <AssemblyName>clase_05.entidades</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,14 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="Pluma.cs" />
+    <Compile Include="Enumerados.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\clase_05.entidades\clase_05.entidades.csproj">
-      <Project>{b5609829-f230-4b6a-9cd2-2bf5ea831302}</Project>
-      <Name>clase_05.entidades</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
