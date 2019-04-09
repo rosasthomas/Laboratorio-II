@@ -1,0 +1,12 @@
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\bin\Debug\Clase_06.test.exe.config
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\bin\Debug\Clase_06.test.exe
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\bin\Debug\Clase_06.test.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\bin\Debug\Libreria.dll
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\bin\Debug\clase_05.entidades.dll
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\bin\Debug\Libreria.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\bin\Debug\clase_05.entidades.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\obj\Debug\Clase_06.test.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\obj\Debug\Clase_06.test.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\obj\Debug\Clase_06.test.csproj.CopyComplete
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\obj\Debug\Clase_06.test.exe
+D:\Laboratorio-II\Rosas.Thomas\Clase_06.test\obj\Debug\Clase_06.test.pdb
