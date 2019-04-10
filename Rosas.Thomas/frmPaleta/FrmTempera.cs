@@ -42,8 +42,7 @@ namespace frmPaleta
 
         private void BtnAceptar_Click(object sender, EventArgs e)
         {
-            Tempera NuevaTempera = new Tempera((ConsoleColor)this.CboColor.SelectedItem, this.TxtMarca.Text, sbyte.Parse(this.TxtCantidad.Text));
-            MessageBox.Show(Tempera.Mostrar(NuevaTempera));
+            Tempera NuevaTempera = new Tempera((ConsoleColor)this.CboColor.SelectedItem, this.TxtMarca.Text, sbyte.Parse(this.TxtCantidad.Text));            
             this._miTempera = NuevaTempera;
             this.DialogResult = DialogResult.OK;
         }
