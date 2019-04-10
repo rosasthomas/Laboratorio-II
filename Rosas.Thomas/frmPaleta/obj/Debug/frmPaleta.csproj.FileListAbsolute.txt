@@ -1,0 +1,16 @@
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\bin\Debug\frmPaleta.exe.config
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\bin\Debug\frmPaleta.exe
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\bin\Debug\frmPaleta.pdb
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\bin\Debug\Libreria.dll
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\bin\Debug\clase_05.entidades.dll
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\bin\Debug\Libreria.pdb
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\bin\Debug\clase_05.entidades.pdb
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\obj\Debug\frmPaleta.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\obj\Debug\frmPaleta.FrmPaleta.resources
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\obj\Debug\frmPaleta.FrmTempera.resources
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\obj\Debug\frmPaleta.Properties.Resources.resources
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\obj\Debug\frmPaleta.csproj.GenerateResource.cache
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\obj\Debug\frmPaleta.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\obj\Debug\frmPaleta.csproj.CopyComplete
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\obj\Debug\frmPaleta.exe
+D:\Laboratorio-II\Rosas.Thomas\frmPaleta\obj\Debug\frmPaleta.pdb

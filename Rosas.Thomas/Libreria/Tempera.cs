@@ -41,11 +41,12 @@ namespace Libreria
         public static bool operator == (Tempera auxUno, Tempera auxDos)
         {
             bool flag = false;
-            if (auxUno == null && auxDos == null)
+
+            if (Equals(auxUno, null) && Equals(auxDos, null))
             {
                 flag = true;
             }
-            else if (auxUno == null || auxDos == null)
+            else if (Equals(auxUno, null) || Equals(auxDos, null))
             {
                 flag = false;
             }
@@ -53,6 +54,7 @@ namespace Libreria
             {
                 flag = true;
             }
+
             return flag;
         }
 

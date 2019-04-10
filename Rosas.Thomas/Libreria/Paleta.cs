@@ -11,6 +11,15 @@ namespace Libreria
         private Tempera[] _temperas;
         private int _cantidadMaxima;
 
+        private Tempera[] _miTemperas;
+
+        public Tempera[] MiTemperas
+        {
+            get { return _temperas; }
+            
+        }
+
+
         private Paleta(int cantidad)
         {
             _cantidadMaxima = cantidad;

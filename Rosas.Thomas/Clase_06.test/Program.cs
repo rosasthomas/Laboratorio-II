@@ -14,7 +14,7 @@ namespace Clase_06.test
             Tempera temperaRoja = new Tempera(ConsoleColor.Red, "maped", 1);
             Tempera temperaAzul = new Tempera(ConsoleColor.Blue, "faber", 1);
             paletaUno += temperaRoja;
-            paletaUno += temperaAzul;
+            paletaUno += temperaAzul;        
             Console.WriteLine((string)paletaUno);
             Console.ReadKey();
             
