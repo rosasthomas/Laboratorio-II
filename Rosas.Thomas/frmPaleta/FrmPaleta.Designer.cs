@@ -30,6 +30,7 @@
         {
             this.LstLista = new System.Windows.Forms.ListBox();
             this.BtnMas = new System.Windows.Forms.Button();
+            this.BtnMenos = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // LstLista
@@ -39,23 +40,36 @@
             this.LstLista.Name = "LstLista";
             this.LstLista.Size = new System.Drawing.Size(212, 316);
             this.LstLista.TabIndex = 0;
+            this.LstLista.DoubleClick += new System.EventHandler(this.BtnMenos_Click);
             // 
             // BtnMas
             // 
             this.BtnMas.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F);
             this.BtnMas.Location = new System.Drawing.Point(8, 334);
             this.BtnMas.Name = "BtnMas";
-            this.BtnMas.Size = new System.Drawing.Size(212, 44);
+            this.BtnMas.Size = new System.Drawing.Size(101, 44);
             this.BtnMas.TabIndex = 1;
             this.BtnMas.Text = "+";
             this.BtnMas.UseVisualStyleBackColor = true;
             this.BtnMas.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // BtnMenos
+            // 
+            this.BtnMenos.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F);
+            this.BtnMenos.Location = new System.Drawing.Point(119, 334);
+            this.BtnMenos.Name = "BtnMenos";
+            this.BtnMenos.Size = new System.Drawing.Size(101, 44);
+            this.BtnMenos.TabIndex = 2;
+            this.BtnMenos.Text = "-";
+            this.BtnMenos.UseVisualStyleBackColor = true;
+            this.BtnMenos.Click += new System.EventHandler(this.BtnMenos_Click);
             // 
             // FrmPaleta
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(232, 387);
+            this.Controls.Add(this.BtnMenos);
             this.Controls.Add(this.BtnMas);
             this.Controls.Add(this.LstLista);
             this.Name = "FrmPaleta";
@@ -68,6 +82,7 @@
 
         private System.Windows.Forms.ListBox LstLista;
         private System.Windows.Forms.Button BtnMas;
+        private System.Windows.Forms.Button BtnMenos;
     }
 }
 

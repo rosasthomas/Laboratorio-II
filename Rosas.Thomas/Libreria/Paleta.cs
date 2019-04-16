@@ -11,8 +11,6 @@ namespace Libreria
         private Tempera[] _temperas;
         private int _cantidadMaxima;
 
-        private Tempera[] _miTemperas;
-
         public Tempera[] MiTemperas
         {
             get { return _temperas; }
@@ -89,9 +87,28 @@ namespace Libreria
                 if (object.Equals(t, null))
                 {
                     indice = i;
+                    break;
                 }
             }
             return indice;
         }
+
+        public static Paleta operator -(Paleta auxPaleta, Tempera auxTempera)
+        {
+            int i = -1;
+            foreach (Tempera t in auxPaleta.MiTemperas)
+            {
+                i++;
+                if (auxPaleta == auxTempera)
+                {
+                    auxPaleta.MiTemperas[i] = null;
+                    break;
+                }
+                
+            }
+
+            return auxPaleta;
+        }
+
     }
 }

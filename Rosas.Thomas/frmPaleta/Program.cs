@@ -16,7 +16,7 @@ namespace frmPaleta
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmPaleta());
+            Application.Run(new FrmPrincipal());
         }
     }
 }

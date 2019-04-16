@@ -30,6 +30,13 @@ namespace frmPaleta
             }
         }
 
+        public FrmTempera(Tempera TemperaConstructor) : this()
+        {
+            TxtMarca.Text = TemperaConstructor.MiMarca;
+            TxtCantidad.Text = ((sbyte)TemperaConstructor).ToString();
+            CboColor.Text = TemperaConstructor.MiColor.ToString();
+        }
+
         private void Cantidad_Click(object sender, EventArgs e)
         {
 

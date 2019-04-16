@@ -38,5 +38,28 @@ namespace frmPaleta
                 }
             }
         }
+
+        private void BtnMenos_Click(object sender, EventArgs e)
+        {
+            int indexAux;
+
+            indexAux = LstLista.SelectedIndex;
+
+            FrmTempera frmTemperaMenos = new FrmTempera(miPaleta.MiTemperas[indexAux]);
+            frmTemperaMenos.ShowDialog();
+
+            if (frmTemperaMenos.DialogResult == DialogResult.OK)
+            {
+                miPaleta -= miPaleta.MiTemperas[indexAux];
+            }
+
+            foreach (Tempera t in miPaleta.MiTemperas)
+            {
+                if (t == null)
+                {
+                    LstLista.Items.RemoveAt(indexAux);
+                }
+            }
+        }
     }
 }

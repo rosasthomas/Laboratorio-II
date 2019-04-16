@@ -12,6 +12,18 @@ namespace Libreria
         private string _Marca;
         private sbyte _Cantidad;
 
+        public string MiMarca
+        {
+            get { return _Marca; }
+            
+        }
+
+        public string MiColor
+        {
+            get { return _Color.ToString(); }
+
+        }
+
         public  Tempera(ConsoleColor color, string marca, sbyte cantidad)
         {
             this._Marca = marca;
@@ -82,5 +94,7 @@ namespace Libreria
         {
             return tempera._Cantidad;
         }
+
+       
     }
 }
