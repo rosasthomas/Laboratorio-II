@@ -1,0 +1,6 @@
+D:\Laboratorio-II\Rosas.Thomas\Libreria.Vehiculos\obj\Debug\Libreria.Vehiculos.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Libreria.Vehiculos\obj\Debug\Libreria.Vehiculos.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Libreria.Vehiculos\bin\Debug\Libreria.Vehiculos.dll
+D:\Laboratorio-II\Rosas.Thomas\Libreria.Vehiculos\bin\Debug\Libreria.Vehiculos.pdb
+D:\Laboratorio-II\Rosas.Thomas\Libreria.Vehiculos\obj\Debug\Libreria.Vehiculos.dll
+D:\Laboratorio-II\Rosas.Thomas\Libreria.Vehiculos\obj\Debug\Libreria.Vehiculos.pdb

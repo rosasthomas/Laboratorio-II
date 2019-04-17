@@ -1,0 +1,10 @@
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\bin\Debug\Clase_09.test.exe.config
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\bin\Debug\Clase_09.test.exe
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\bin\Debug\Clase_09.test.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\bin\Debug\Libreria.Vehiculos.dll
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\bin\Debug\Libreria.Vehiculos.pdb
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\obj\Debug\Clase_09.test.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\obj\Debug\Clase_09.test.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\obj\Debug\Clase_09.test.csproj.CopyComplete
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\obj\Debug\Clase_09.test.exe
+D:\Laboratorio-II\Rosas.Thomas\Clase_09.test\obj\Debug\Clase_09.test.pdb
