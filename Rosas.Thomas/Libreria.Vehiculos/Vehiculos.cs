@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace Libreria.Vehiculos
 {
-    public class Vehiculos
+    public abstract class Vehiculos
     {
         protected string _patente;
         protected EMarca _marca;
         protected byte _cantidadRuedas;
+
+        public abstract double Precio { get; set; }
+        public abstract double CalcularPrecioConIVA();
+
 
         private Vehiculos _miPatente;
 
@@ -33,16 +37,16 @@ namespace Libreria.Vehiculos
             this._cantidadRuedas = CantidadRuedas;
         }
 
-        protected string Mostrar()
-        {
-            return _patente + ", " + _marca.ToString() + ", " + _cantidadRuedas.ToString();
-        }
+        //protected string Mostrar()
+        //{
+        //    return _patente + ", " + _marca.ToString() + ", " + _cantidadRuedas.ToString();
+        //}
 
         public static bool operator ==(Vehiculos vehiculoUno, Vehiculos vehiculoDos)
         {
             bool retorno = false;
 
-            if (vehiculoUno.MiMarca == vehiculoDos.MiMarca && vehiculoUno.MiPatente == vehiculoDos.MiPatente)
+            if (vehiculoUno._miPatente == vehiculoDos._miPatente && vehiculoUno._miMarca == vehiculoDos._miMarca )
             {
                 retorno = true;
             }
@@ -53,6 +57,13 @@ namespace Libreria.Vehiculos
         public static bool operator !=(Vehiculos vehiculoUno, Vehiculos vehiculoDos)
         {
             return !(vehiculoUno == vehiculoDos);
+        }
+
+       
+
+        public override string ToString()
+        {
+            return _patente + ", " + _marca.ToString() + ", " + _cantidadRuedas.ToString();
         }
     }
 }

@@ -15,11 +15,25 @@ namespace Libreria.Vehiculos
             this.Tara = Tara;
         }
 
-        public string MostrarCamion()
+        //public string MostrarCamion()
+        //{
+        //    return  base.Mostrar() + ", " + Tara.ToString();
+        //}
+
+        public override double Precio
         {
-            return  base.Mostrar() + ", " + Tara.ToString();
+            get;
+            set;
         }
 
-        
+        public override double CalcularPrecioConIVA()
+        {
+            return Precio * 1.21;
+        }
+
+        public override string ToString()
+        {
+            return "Camion: " + base.ToString() + ", " + Tara.ToString();
+        }
     }
 }

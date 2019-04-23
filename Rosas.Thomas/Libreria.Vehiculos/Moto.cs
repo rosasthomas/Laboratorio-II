@@ -15,9 +15,26 @@ namespace Libreria.Vehiculos
             this.Cilindrada = Cilindrada;
         }
 
-        public string MostrarMoto()
+        //public string MostrarMoto()
+        //{
+        //    return base.Mostrar() + ", " + Cilindrada.ToString();
+        //}
+
+        public override double Precio
         {
-            return base.Mostrar() + ", " + Cilindrada.ToString();
+            get;
+            set;
         }
+
+        public override double CalcularPrecioConIVA()
+        {
+            return Precio * 1.21;
+        }
+
+        public override string ToString()
+        {
+            return "Moto: " + base.ToString() + ", " + Cilindrada.ToString();
+        }
+
     }
 }

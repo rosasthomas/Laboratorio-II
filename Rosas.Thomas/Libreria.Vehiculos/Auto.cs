@@ -15,9 +15,27 @@ namespace Libreria.Vehiculos
             this.CantidadAsientos = CantidadAsientos;
         }
 
-        public string MostrarAuto()
+        //public string MostrarAuto()
+        //{
+        //    return base.Mostrar() + ", " + CantidadAsientos.ToString();
+        //}
+
+        public override string ToString()
         {
-            return base.Mostrar() + ", " + CantidadAsientos.ToString();
+            return "Auto: " + base.ToString() + ", " + CantidadAsientos.ToString();
+        }
+
+        public override double Precio
+        {
+            get;
+            set;
+        }
+
+        public override double CalcularPrecioConIVA()
+        {
+            return Precio * 1.21;
         }
     }
+
+
 }
