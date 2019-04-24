@@ -33,7 +33,7 @@ namespace Libreria.Vehiculos
 
         public override string ToString()
         {
-            return "Camion: " + base.ToString() + ", " + Tara.ToString();
+            return "\nCamion: " + base.ToString() + ", " + Tara.ToString();
         }
     }
 }

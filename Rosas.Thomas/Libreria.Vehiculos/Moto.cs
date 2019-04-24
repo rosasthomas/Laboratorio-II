@@ -33,7 +33,7 @@ namespace Libreria.Vehiculos
 
         public override string ToString()
         {
-            return "Moto: " + base.ToString() + ", " + Cilindrada.ToString();
+            return "\nMoto: " + base.ToString() + ", " + Cilindrada.ToString();
         }
 
     }

@@ -1,0 +1,10 @@
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\bin\Debug\Rosas.Thomas.2ºA.exe.config
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\bin\Debug\Rosas.Thomas.2ºA.exe
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\bin\Debug\Rosas.Thomas.2ºA.pdb
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\bin\Debug\ClassLibrary1.dll
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\bin\Debug\ClassLibrary1.pdb
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\obj\Debug\Rosas.Thomas.2ºA.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\obj\Debug\Rosas.Thomas.2ºA.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\obj\Debug\Rosas.Thomas.2ºA.csproj.CopyComplete
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\obj\Debug\Rosas.Thomas.2ºA.exe
+D:\Laboratorio-II\Rosas.Thomas\Rosas.Thomas.2ºA\obj\Debug\Rosas.Thomas.2ºA.pdb

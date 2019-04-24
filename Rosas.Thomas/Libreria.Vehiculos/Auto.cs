@@ -22,7 +22,7 @@ namespace Libreria.Vehiculos
 
         public override string ToString()
         {
-            return "Auto: " + base.ToString() + ", " + CantidadAsientos.ToString();
+            return "\nAuto: " + base.ToString() + ", " + CantidadAsientos.ToString();
         }
 
         public override double Precio

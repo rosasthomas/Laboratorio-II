@@ -1,0 +1,6 @@
+D:\Laboratorio-II\Rosas.Thomas\ClassLibrary1\obj\Debug\Entidades.ModeloParcial.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\ClassLibrary1\obj\Debug\Entidades.ModeloParcial.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Laboratorio-II\Rosas.Thomas\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Laboratorio-II\Rosas.Thomas\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Laboratorio-II\Rosas.Thomas\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

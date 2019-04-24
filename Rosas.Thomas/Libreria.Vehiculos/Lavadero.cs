@@ -27,7 +27,7 @@ namespace Libreria.Vehiculos
 
         public  string MiLavadero
         {
-            get { return "-Precio auto :" + this._precioAuto.ToString() + "\n-Precio camion: " + this._precioCamion.ToString() + "\n-Precio Moto" + this._precioMoto.ToString() + MisVehiculos; }
+            get { return "-Precio auto :" + this._precioAuto.ToString() + "\n-Precio camion: " + this._precioCamion.ToString() + "\n-Precio Moto: " + this._precioMoto.ToString() + MisVehiculos; }
         }
 
         public string MisVehiculos
@@ -68,7 +68,7 @@ namespace Libreria.Vehiculos
 
             foreach (Vehiculos ve in l._vehiculos)
             {
-                if (ve.MiPatente == v.MiPatente && ve.MiMarca == v.MiMarca)
+                if (ve == v)
                 {
                     retorno = true;
                     break;
@@ -107,7 +107,7 @@ namespace Libreria.Vehiculos
         {
             double retorno = 0;
 
-            foreach (Vehiculos v in _vehiculos)
+                 foreach (Vehiculos v in _vehiculos)
             {
                 if (v is Auto)
                 {

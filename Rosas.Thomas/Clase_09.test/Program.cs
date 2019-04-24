@@ -20,7 +20,7 @@ namespace Clase_09.test
             Moto motoDos = new Moto("YJY 447", EMarca.Honda, 2, 600);
 
             lavaderoGato += autoUno;
-            //lavaderoGato += moto;
+            lavaderoGato += moto;
             lavaderoGato += camion;
             lavaderoGato += autoDos;
             lavaderoGato += camionDos;

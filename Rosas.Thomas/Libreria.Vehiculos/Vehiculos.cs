@@ -15,19 +15,14 @@ namespace Libreria.Vehiculos
         public abstract double Precio { get; set; }
         public abstract double CalcularPrecioConIVA();
 
-
-        private Vehiculos _miPatente;
-
-        public Vehiculos MiPatente
+        public string MiPatente
         {
-            get { return _miPatente; }
+            get { return _patente; }
         }
 
-        private Vehiculos _miMarca;
-
-        public Vehiculos MiMarca
+        public EMarca MiMarca
         {
-            get { return _miMarca; }
+            get { return _marca; }
         }
 
         public Vehiculos(string patente, EMarca Marca, byte CantidadRuedas)
@@ -46,7 +41,7 @@ namespace Libreria.Vehiculos
         {
             bool retorno = false;
 
-            if (vehiculoUno._miPatente == vehiculoDos._miPatente && vehiculoUno._miMarca == vehiculoDos._miMarca )
+            if (vehiculoUno._patente == vehiculoDos._patente && vehiculoUno._marca == vehiculoDos._marca )
             {
                 retorno = true;
             }
@@ -63,7 +58,7 @@ namespace Libreria.Vehiculos
 
         public override string ToString()
         {
-            return _patente + ", " + _marca.ToString() + ", " + _cantidadRuedas.ToString();
+            return "\n" + _patente + ", " + _marca.ToString() + ", " + _cantidadRuedas.ToString();
         }
     }
 }
