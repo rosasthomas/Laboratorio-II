@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rosas.Thomas.2ºA", "Rosas.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades.ModeloParcial", "ClassLibrary1\Entidades.ModeloParcial.csproj", "{74CB0DED-04D5-4504-B8AB-29DA7B4B55E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades.Clase_14", "Entidades.Clase_14\Entidades.Clase_14.csproj", "{BD9F9E25-D62D-4E70-B854-4AF389204BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase_15.test.Exceptions", "clase_15.test.Exceptions\clase_15.test.Exceptions.csproj", "{FB4B53E6-6638-4FE1-981D-5769C9C39194}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{74CB0DED-04D5-4504-B8AB-29DA7B4B55E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74CB0DED-04D5-4504-B8AB-29DA7B4B55E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74CB0DED-04D5-4504-B8AB-29DA7B4B55E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9F9E25-D62D-4E70-B854-4AF389204BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9F9E25-D62D-4E70-B854-4AF389204BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9F9E25-D62D-4E70-B854-4AF389204BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9F9E25-D62D-4E70-B854-4AF389204BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4B53E6-6638-4FE1-981D-5769C9C39194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4B53E6-6638-4FE1-981D-5769C9C39194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4B53E6-6638-4FE1-981D-5769C9C39194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4B53E6-6638-4FE1-981D-5769C9C39194}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

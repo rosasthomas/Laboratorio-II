@@ -1,0 +1,6 @@
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Clase_14\bin\Debug\Entidades.Clase_14.dll
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Clase_14\bin\Debug\Entidades.Clase_14.pdb
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Clase_14\obj\Debug\Entidades.Clase_14.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Clase_14\obj\Debug\Entidades.Clase_14.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Clase_14\obj\Debug\Entidades.Clase_14.dll
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Clase_14\obj\Debug\Entidades.Clase_14.pdb
