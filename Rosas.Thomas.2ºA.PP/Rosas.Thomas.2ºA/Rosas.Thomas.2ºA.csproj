@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8C768290-BDF9-4658-BDB7-17AAF1BB6857}</ProjectGuid>
+    <ProjectGuid>{E6394FC4-E223-4D68-BADD-4BEBCF0A5EF2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Rosas.Thomas._2ºA</RootNamespace>
     <AssemblyName>Rosas.Thomas.2ºA</AssemblyName>
@@ -47,12 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Entidades.ModeloParcial.csproj">
-      <Project>{74cb0ded-04d5-4504-b8ab-29da7b4b55e2}</Project>
-      <Name>Entidades.ModeloParcial</Name>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{3422fc7f-6876-4e7e-aea2-e5e96d677fe5}</Project>
+      <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

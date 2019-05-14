@@ -4,16 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8C768290-BDF9-4658-BDB7-17AAF1BB6857}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>Rosas.Thomas._2ºA</RootNamespace>
-    <AssemblyName>Rosas.Thomas.2ºA</AssemblyName>
+    <ProjectGuid>{3422FC7F-6876-4E7E-AEA2-E5E96D677FE5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Entidades</RootNamespace>
+    <AssemblyName>Entidades</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +22,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -42,18 +40,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="EComercio.cs" />
+    <Compile Include="EPaises.cs" />
+    <Compile Include="Comerciante.cs" />
+    <Compile Include="Comercio.cs" />
+    <Compile Include="ETipoProducto.cs" />
+    <Compile Include="Exportador.cs" />
+    <Compile Include="Importador.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Entidades.ModeloParcial.csproj">
-      <Project>{74cb0ded-04d5-4504-b8ab-29da7b4b55e2}</Project>
-      <Name>Entidades.ModeloParcial</Name>
-    </ProjectReference>
+    <Compile Include="Shopping.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
