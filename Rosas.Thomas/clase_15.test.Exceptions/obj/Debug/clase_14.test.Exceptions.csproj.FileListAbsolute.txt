@@ -1,0 +1,10 @@
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\bin\Debug\clase_15.test.Exceptions.exe.config
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\bin\Debug\clase_15.test.Exceptions.exe
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\bin\Debug\clase_15.test.Exceptions.pdb
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\bin\Debug\Entidades.Clase_14.dll
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\bin\Debug\Entidades.Clase_14.pdb
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\obj\Debug\clase_14.test.Exceptions.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\obj\Debug\clase_14.test.Exceptions.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\obj\Debug\clase_14.test.Exceptions.csproj.CopyComplete
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\obj\Debug\clase_15.test.Exceptions.exe
+D:\Laboratorio-II\Rosas.Thomas\clase_15.test.Exceptions\obj\Debug\clase_15.test.Exceptions.pdb
