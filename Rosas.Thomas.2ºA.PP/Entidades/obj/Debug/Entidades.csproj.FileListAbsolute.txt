@@ -4,3 +4,9 @@ D:\Rosas.Thomas.2ºA\Rosas.Thomas.2ºA\Entidades\bin\Debug\Entidades.dll
 D:\Rosas.Thomas.2ºA\Rosas.Thomas.2ºA\Entidades\bin\Debug\Entidades.pdb
 D:\Rosas.Thomas.2ºA\Rosas.Thomas.2ºA\Entidades\obj\Debug\Entidades.dll
 D:\Rosas.Thomas.2ºA\Rosas.Thomas.2ºA\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.2ºA.PP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.2ºA.PP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.2ºA.PP\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.2ºA.PP\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.2ºA.PP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.2ºA.PP\Entidades\obj\Debug\Entidades.pdb

@@ -17,7 +17,7 @@ namespace Entidades
 
         public string Mostrar()
         {
-            return base._comerciante + "\nTipo: " + this.tipo;
+            return (string)this + "\nTipo: " + this.tipo;
         }
 
         public static implicit operator double(Exportador a)

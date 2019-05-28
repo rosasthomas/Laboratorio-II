@@ -19,7 +19,7 @@ namespace Entidades
 
         public static implicit operator string(Comerciante a)
         {
-            return a._nombre + a._apellido;
+            return a._nombre + "-" + a._apellido;
         }
 
         public static bool operator ==(Comerciante a, Comerciante b)

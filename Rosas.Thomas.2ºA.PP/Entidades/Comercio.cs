@@ -52,7 +52,7 @@ namespace Entidades
 
         private static string Mostrar(Comercio c)
         {
-            return "\nNombre de comercio: " + c._nombre + "\nComerciante: " + c._comerciante.ToString() + "\nCantidad de empleados: " + c.CantidadDeEmpleados + "\nPrecio de alquiler: " + c._precioAlquiler;
+            return "\n\nNombre de comercio: " + c._nombre  + "\nCantidad de empleados: " + c.CantidadDeEmpleados + "\nComerciante: " + c._comerciante + "\nPrecio de alquiler: " + c._precioAlquiler;
         }
 
         public static bool operator ==(Comercio a, Comercio b)

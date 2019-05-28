@@ -17,7 +17,7 @@ namespace Entidades
 
         public string Mostrar()
         {
-            return base._comerciante + "\nPais de origen: "+ this.paisOrigen; 
+            return (string)this + "\nPais de origen: "+ this.paisOrigen; 
         }
 
         public static bool operator ==(Importador a, Importador b)

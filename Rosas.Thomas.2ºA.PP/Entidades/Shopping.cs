@@ -16,23 +16,48 @@ namespace Entidades
             this._comercios = new List<Comercio>();
         }
 
-        private Shopping(int capacidad):this()
+        private Shopping(int capacidad) : this()
         {
             this._capacidad = capacidad;
         }
 
-        //public double PrecioDeExportadores
-        //{
-        //    get { return ; }
-        //}
+        public double PrecioDeExportadores
+        {
+            get { return this.ObtenerPrecio(EComercio.Exportador); }
+        }
+        public double PrecioDeImportadores
+        {
+            get { return this.ObtenerPrecio(EComercio.Importador); }
+        }
+        public double PrecioTotal
+        {
+            get { return this.ObtenerPrecio(EComercio.Ambos); }
+        }
 
         public static string Mostrar(Shopping s)
         {
             string retorno = "";
-            foreach (Comercio c in s._comercios)
+
+            retorno += "Capacidad del Shopping: " + s._capacidad + "\n";
+            retorno += "Total por Importadores: " + s.PrecioDeImportadores + "\n";
+            retorno += "Total por Exportadores: " + s.PrecioDeExportadores + "\n";
+            retorno += "Total por ambos: " + s.PrecioTotal + "\n\n";
+            retorno += "*****************************\n";
+            retorno += "Listado de Comercios\n";
+            retorno += "*****************************";
+
+            foreach (Comercio co in s._comercios)
             {
-                retorno += (string)c;
+                if (co is Importador)
+                {
+                    retorno += ((Importador)co).Mostrar();
+                }
+                else
+                {
+                    retorno += ((Exportador)co).Mostrar();
+                }
             }
+
 
             return retorno;
         }
@@ -70,23 +95,48 @@ namespace Entidades
             {
                 s._comercios.Add(c);
             }
+            else if(s._comercios.Count >= s._capacidad)
+            {
+                Console.WriteLine("\n No hay más capacidad en el shopping.");
+            }
             else
             {
-                Console.WriteLine("\n No se pudo agregar el comercio.");
+                Console.WriteLine("El comercio ya está en el shopping.");
             }
 
             return s;
         }
 
-        //private double ObtenerPrecio(EComercio tipoComercio)
-        //{
-        //    double retorno;
+        private double ObtenerPrecio(EComercio tipoComercio)
+        {
+            double retorno = 0;
 
-        //    if (tipoComercio is EComercio.Importador)
-        //    {
-        //        this._comercios.
-        //    }
-        //    return retorno;
-        //}
+            foreach (Comercio c in _comercios)
+            {
+                if (tipoComercio == EComercio.Importador && c is Importador)
+                {
+                    retorno += ((Importador)c);
+                }
+                else if(tipoComercio == EComercio.Importador && c is Exportador)
+                {
+                    retorno += ((Exportador)c);
+                }
+                else if(tipoComercio == EComercio.Ambos)
+                {
+                    if (c is Importador)
+                    {
+                        retorno += (Importador)c;
+                    }
+                    else
+                    {
+                        retorno += (Exportador)c;
+                    }
+                }
+
+            }
+
+            return retorno;
+        }
+
     }
 }
