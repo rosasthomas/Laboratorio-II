@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase_14.test.Exceptions", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frm.clase_15", "frm.clase_15\frm.clase_15.csproj", "{B9323287-8CA4-484C-8C84-49D071CBAAFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades.Deposito", "Entidades.Deposito\Entidades.Deposito.csproj", "{1C3FDFAB-12F9-4683-A639-30E2F1856146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test.Deposito", "test.Deposito\test.Deposito.csproj", "{577C086B-1A8C-4D34-8B83-F60541C6B2C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{B9323287-8CA4-484C-8C84-49D071CBAAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9323287-8CA4-484C-8C84-49D071CBAAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9323287-8CA4-484C-8C84-49D071CBAAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3FDFAB-12F9-4683-A639-30E2F1856146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3FDFAB-12F9-4683-A639-30E2F1856146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3FDFAB-12F9-4683-A639-30E2F1856146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3FDFAB-12F9-4683-A639-30E2F1856146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577C086B-1A8C-4D34-8B83-F60541C6B2C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577C086B-1A8C-4D34-8B83-F60541C6B2C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577C086B-1A8C-4D34-8B83-F60541C6B2C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577C086B-1A8C-4D34-8B83-F60541C6B2C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

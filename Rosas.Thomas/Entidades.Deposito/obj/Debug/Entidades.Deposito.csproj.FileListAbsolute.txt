@@ -1,0 +1,6 @@
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Deposito\bin\Debug\Entidades.Deposito.dll
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Deposito\bin\Debug\Entidades.Deposito.pdb
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Deposito\obj\Debug\Entidades.Deposito.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Deposito\obj\Debug\Entidades.Deposito.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Deposito\obj\Debug\Entidades.Deposito.dll
+D:\Laboratorio-II\Rosas.Thomas\Entidades.Deposito\obj\Debug\Entidades.Deposito.pdb

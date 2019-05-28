@@ -1,0 +1,10 @@
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\bin\Debug\test.Deposito.exe.config
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\bin\Debug\test.Deposito.exe
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\bin\Debug\test.Deposito.pdb
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\bin\Debug\Entidades.Deposito.dll
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\bin\Debug\Entidades.Deposito.pdb
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\obj\Debug\test.Deposito.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\obj\Debug\test.Deposito.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\obj\Debug\test.Deposito.csproj.CopyComplete
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\obj\Debug\test.Deposito.exe
+D:\Laboratorio-II\Rosas.Thomas\test.Deposito\obj\Debug\test.Deposito.pdb
