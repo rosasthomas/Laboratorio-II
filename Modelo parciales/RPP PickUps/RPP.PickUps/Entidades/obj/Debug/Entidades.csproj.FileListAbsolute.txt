@@ -1,0 +1,6 @@
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\Entidades\bin\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\Entidades\obj\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\Entidades\obj\Debug\Entidades.pdb

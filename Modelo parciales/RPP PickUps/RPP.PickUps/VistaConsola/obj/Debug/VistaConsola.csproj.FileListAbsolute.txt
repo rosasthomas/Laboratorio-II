@@ -1,0 +1,10 @@
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Thomas\Desktop\Programación-II\RPP PickUps\RPP.PickUps\VistaConsola\obj\Debug\VistaConsola.pdb
