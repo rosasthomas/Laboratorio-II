@@ -1,0 +1,13 @@
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\obj\Debug\VistaForm.FormDT.resources
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Modelo parciales\PP Equipos\Rosas.Thomas\VistaForm\obj\Debug\VistaForm.pdb
