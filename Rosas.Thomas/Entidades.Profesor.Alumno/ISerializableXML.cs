@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades.Humanos
 {
-     interface ISerializableXML
+     public interface ISerializableXML
     {
         bool SerializarXML();
         bool Deserializar();

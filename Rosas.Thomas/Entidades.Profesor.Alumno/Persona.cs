@@ -38,7 +38,7 @@ namespace Entidades.Humanos
             {
                 XmlSerializer ser = new XmlSerializer(typeof(Persona));
                 StreamWriter sw = new StreamWriter(Path);
-                ser.Serialize(sw);
+                ser.Serialize(sw, this);
                 sw.Close();
                 flag = true;
             }
@@ -52,27 +52,30 @@ namespace Entidades.Humanos
         public bool Deserializar()
         {
             Persona a = new Persona();
-
+            bool flag = false;
             try
             {
                 XmlSerializer ser = new XmlSerializer(typeof(Persona));
                 StreamReader sr = new StreamReader(Path);
 
                 a = (Persona)ser.Deserialize(sr);
+                
                 sr.Close();
+                flag = true;
             }
             catch (Exception)
             {
+                flag = false;
                 a = null;
             }
 
-            return a;
+            return flag;
         }
-        private string _path;
-        string Path
+        private string path;
+        public string Path
         {
-            get {return _path; }
-            set {_path = value; }
+            get {return this.path; }
+            set {this.path = value; }
         }
     }
 }
