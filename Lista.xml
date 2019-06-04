@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHumano xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Humano>
+    <Dni>20573628</Dni>
+  </Humano>
+  <Humano xsi:type="Persona">
+    <Dni>34636802</Dni>
+    <nombre>Jose</nombre>
+    <apellido>Esperanza</apellido>
+  </Humano>
+  <Humano xsi:type="Alumno">
+    <Dni>54832659</Dni>
+    <nombre>Pepe</nombre>
+    <apellido>Gimenez</apellido>
+    <Legajo>108014</Legajo>
+  </Humano>
+  <Humano xsi:type="Profesor">
+    <Dni>42404923</Dni>
+    <nombre>Carlos</nombre>
+    <apellido>Martinez</apellido>
+    <Titulo>Programador</Titulo>
+  </Humano>
+</ArrayOfHumano>
