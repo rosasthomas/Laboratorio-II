@@ -1,0 +1,20 @@
+ModificarPersona(Persona):bool
+EliminarPersona(int):bool
+TraerTablaPersonas():Datatable //en vez de devolver todas las personas trae la tabla, es un objeto que es independiente del
+proveedor de datos, porque no importa el origen de datos.
+-Generar un objeto datatable
+-Agregar using system.Data
+-El constructor recibe el nombre de la tabla que va a representar (Personas) 
+-generar un nuevo objeto tipo commna y ponerle el tipo text *promp personas (Igual que en el traer todos)
+-Copiar y pegar hasta el execute reader
+-poseen una coleccion de filas y columas.
+-se puede recorrer con foreachh
+-con el datareader utilizar el medoto load(pasar como parametro el dataReader) //este metodo reccore el dataRead, toma 
+sus columnas y valores y lo va agregando a las filas y columnas del dataTable.
+-una vez que terminas de ejecutarlo cerrar la conexion
+-recorrer el dataTable.Rouse, y se puede acceder con ["El indice" o "El nombre de columna"]
+-SE SERIALIZA SOLO WACHO
+-dataTable.WriteXMLSchema("Path del excel") //Crea el esquema de la tabla
+-dataTable.WriteXML("Path de excel distinto al del esquema")
+-dataTable.ReadXMLSchema("path")
+-dataTable.ReadXML("path")
