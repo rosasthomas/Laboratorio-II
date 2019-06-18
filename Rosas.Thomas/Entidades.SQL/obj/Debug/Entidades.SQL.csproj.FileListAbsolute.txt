@@ -1,2 +1,6 @@
 D:\Laboratorio-II\Rosas.Thomas\Entidades.SQL\obj\Debug\Entidades.SQL.csprojAssemblyReference.cache
 D:\Laboratorio-II\Rosas.Thomas\Entidades.SQL\obj\Debug\Entidades.SQL.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Entidades.SQL\bin\Debug\Entidades.SQL.dll
+D:\Laboratorio-II\Rosas.Thomas\Entidades.SQL\bin\Debug\Entidades.SQL.pdb
+D:\Laboratorio-II\Rosas.Thomas\Entidades.SQL\obj\Debug\Entidades.SQL.dll
+D:\Laboratorio-II\Rosas.Thomas\Entidades.SQL\obj\Debug\Entidades.SQL.pdb

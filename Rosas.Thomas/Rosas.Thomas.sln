@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades.SQL", "Entidades.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSQL", "TestSQL\TestSQL.csproj", "{AA59FA3F-7F03-4FEC-9BEF-DC96C4035211}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmTest.clase20", "FrmTest.clase20\FrmTest.clase20.csproj", "{625EDE05-6BDB-44CD-ADC9-6D4D4815AEAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{AA59FA3F-7F03-4FEC-9BEF-DC96C4035211}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA59FA3F-7F03-4FEC-9BEF-DC96C4035211}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA59FA3F-7F03-4FEC-9BEF-DC96C4035211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625EDE05-6BDB-44CD-ADC9-6D4D4815AEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625EDE05-6BDB-44CD-ADC9-6D4D4815AEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625EDE05-6BDB-44CD-ADC9-6D4D4815AEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625EDE05-6BDB-44CD-ADC9-6D4D4815AEAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

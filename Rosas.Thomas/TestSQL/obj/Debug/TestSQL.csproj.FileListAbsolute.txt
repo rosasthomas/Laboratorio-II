@@ -1,0 +1,2 @@
+D:\Laboratorio-II\Rosas.Thomas\TestSQL\obj\Debug\TestSQL.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\TestSQL\obj\Debug\TestSQL.csproj.CoreCompileInputs.cache

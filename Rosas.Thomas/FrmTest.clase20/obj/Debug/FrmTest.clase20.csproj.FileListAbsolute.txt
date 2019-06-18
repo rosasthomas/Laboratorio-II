@@ -1,0 +1,11 @@
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\bin\Debug\FrmTest.clase20.exe.config
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\bin\Debug\FrmTest.clase20.exe
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\bin\Debug\FrmTest.clase20.pdb
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\obj\Debug\FrmTest.clase20.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\obj\Debug\FrmTest.clase20.FrmTest.resources
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\obj\Debug\FrmTest.clase20.Properties.Resources.resources
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\obj\Debug\FrmTest.clase20.csproj.GenerateResource.cache
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\obj\Debug\FrmTest.clase20.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\obj\Debug\FrmTest.clase20.exe
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\obj\Debug\FrmTest.clase20.pdb
+D:\Laboratorio-II\Rosas.Thomas\FrmTest.clase20\obj\Debug\FrmTest.clase20.FrmTestDos.resources
