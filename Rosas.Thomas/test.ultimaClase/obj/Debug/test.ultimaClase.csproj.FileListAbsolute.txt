@@ -1,0 +1,10 @@
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\bin\Debug\test.ultimaClase.exe.config
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\bin\Debug\test.ultimaClase.exe
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\bin\Debug\test.ultimaClase.pdb
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\bin\Debug\Entidades.ultimaClase.dll
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\bin\Debug\Entidades.ultimaClase.pdb
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\obj\Debug\test.ultimaClase.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\obj\Debug\test.ultimaClase.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\obj\Debug\test.ultimaClase.csproj.CopyComplete
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\obj\Debug\test.ultimaClase.exe
+D:\Laboratorio-II\Rosas.Thomas\test.ultimaClase\obj\Debug\test.ultimaClase.pdb

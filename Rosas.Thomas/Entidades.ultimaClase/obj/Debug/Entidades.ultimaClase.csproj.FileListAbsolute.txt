@@ -1,0 +1,6 @@
+D:\Laboratorio-II\Rosas.Thomas\Entidades.ultimaClase\bin\Debug\Entidades.ultimaClase.dll
+D:\Laboratorio-II\Rosas.Thomas\Entidades.ultimaClase\bin\Debug\Entidades.ultimaClase.pdb
+D:\Laboratorio-II\Rosas.Thomas\Entidades.ultimaClase\obj\Debug\Entidades.ultimaClase.csprojAssemblyReference.cache
+D:\Laboratorio-II\Rosas.Thomas\Entidades.ultimaClase\obj\Debug\Entidades.ultimaClase.csproj.CoreCompileInputs.cache
+D:\Laboratorio-II\Rosas.Thomas\Entidades.ultimaClase\obj\Debug\Entidades.ultimaClase.dll
+D:\Laboratorio-II\Rosas.Thomas\Entidades.ultimaClase\obj\Debug\Entidades.ultimaClase.pdb
