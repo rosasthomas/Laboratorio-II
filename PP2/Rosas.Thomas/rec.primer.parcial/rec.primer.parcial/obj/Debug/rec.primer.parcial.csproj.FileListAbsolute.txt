@@ -1,0 +1,13 @@
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe.config
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\bin\Debug\rec.primer.parcial.exe
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\bin\Debug\rec.primer.parcial.pdb
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\bin\Debug\Entidades.dll
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\bin\Debug\Entidades.pdb
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\obj\Debug\rec.primer.parcial.csprojAssemblyReference.cache
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\obj\Debug\rec.primer.parcial.Form1.resources
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\obj\Debug\rec.primer.parcial.Properties.Resources.resources
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.GenerateResource.cache
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CoreCompileInputs.cache
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\obj\Debug\rec.primer.parcial.csproj.CopyComplete
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\obj\Debug\rec.primer.parcial.exe
+D:\Rosas.Thomas\rec.primer.parcial\rec.primer.parcial\obj\Debug\rec.primer.parcial.pdb

@@ -4,3 +4,9 @@ D:\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\obj\Debug\Entidades.Hum
 D:\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\obj\Debug\Entidades.Profesor.Alumno.dll
 D:\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\obj\Debug\Entidades.Profesor.Alumno.pdb
 D:\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\obj\Debug\Entidades.Humanos.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\bin\Debug\Entidades.Profesor.Alumno.dll
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\bin\Debug\Entidades.Profesor.Alumno.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\obj\Debug\Entidades.Humanos.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\obj\Debug\Entidades.Humanos.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\obj\Debug\Entidades.Profesor.Alumno.dll
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\Entidades.Profesor.Alumno\obj\Debug\Entidades.Profesor.Alumno.pdb

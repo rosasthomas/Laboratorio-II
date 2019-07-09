@@ -8,3 +8,13 @@ D:\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\obj\Debug\test.Profesor.Alum
 D:\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\obj\Debug\test.Profesor.Alumno.csproj.CopyComplete
 D:\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\obj\Debug\test.Profesor.Alumno.exe
 D:\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\obj\Debug\test.Profesor.Alumno.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\bin\Debug\test.Profesor.Alumno.exe.config
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\bin\Debug\test.Profesor.Alumno.exe
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\bin\Debug\test.Profesor.Alumno.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\bin\Debug\Entidades.Profesor.Alumno.dll
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\bin\Debug\Entidades.Profesor.Alumno.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\obj\Debug\test.Profesor.Alumno.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\obj\Debug\test.Profesor.Alumno.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\obj\Debug\test.Profesor.Alumno.csproj.CopyComplete
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\obj\Debug\test.Profesor.Alumno.exe
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas\test.Profesor.Alumno\obj\Debug\test.Profesor.Alumno.pdb
