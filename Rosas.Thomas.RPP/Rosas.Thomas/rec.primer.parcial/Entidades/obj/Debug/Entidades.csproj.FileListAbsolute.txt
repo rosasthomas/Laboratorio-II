@@ -1,0 +1,12 @@
+D:\Rosas.Thomas\rec.primer.parcial\Entidades\bin\Debug\Entidades.dll
+D:\Rosas.Thomas\rec.primer.parcial\Entidades\bin\Debug\Entidades.pdb
+D:\Rosas.Thomas\rec.primer.parcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Rosas.Thomas\rec.primer.parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Rosas.Thomas\rec.primer.parcial\Entidades\obj\Debug\Entidades.dll
+D:\Rosas.Thomas\rec.primer.parcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.RPP\Rosas.Thomas\rec.primer.parcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.RPP\Rosas.Thomas\rec.primer.parcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.RPP\Rosas.Thomas\rec.primer.parcial\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.RPP\Rosas.Thomas\rec.primer.parcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.RPP\Rosas.Thomas\rec.primer.parcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\Thomas\Desktop\Programación-II\Laboratorio-II\Rosas.Thomas.RPP\Rosas.Thomas\rec.primer.parcial\Entidades\obj\Debug\Entidades.pdb
